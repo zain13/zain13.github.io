@@ -57,7 +57,7 @@
 @media (max-width:768px) and (min-width:315px) {
   .nav-tabs{
     text-align: center; 
-    font-size: 16px;
+    font-size: 18px;
     color: grey;
     width: 100%;
   }
