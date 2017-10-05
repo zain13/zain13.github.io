@@ -21,6 +21,17 @@
   overflow: hidden;
 }
 
+#fh5co-home{
+  display: none;
+}
+@media (min-width:315px) and (max-width:768px) {
+  #fh5co-home{
+    display: block;
+  }
+  #animated-home{
+    display: none;
+  }
+}
 /*----------end slant-----------*/
 
 
