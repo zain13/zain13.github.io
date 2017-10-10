@@ -1470,15 +1470,16 @@ h1, h2, h3, h4, h5, h6 {
 
 #footer {
   padding: 50px 0;
-  color: #7f7f7f;
+  color: #ffffff;
   position: relative;
+  background-color: #49B4CA;
 }
 #footer .gotop {
   position: absolute;
   top: -20px;
   left: 50%;
   margin-left: -40px;
-  background: #fff;
+  background: #49B4CA;
   z-index: 8;
   width: 80px;
   height: 80px;
